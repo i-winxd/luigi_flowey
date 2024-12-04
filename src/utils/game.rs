@@ -327,7 +327,7 @@ pub fn play_it() {
     };
     let mut rng = rand::thread_rng();
 
-    let audio = WavAudio::new("resources/wav_test_3.wav").unwrap();
+    // let audio = WavAudio::new("resources/wav_test_3.wav").unwrap();
 
     let mut total_elapsed_time: f64 = 0.0;
 
