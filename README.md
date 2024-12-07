@@ -7,10 +7,11 @@
 
 ## I'm getting some "vcredist140.dll" error
 
-usually, this error doesn't appear if you've
-somehow installed a bunch of stuff on your computer
+Install [Visual Studio C++ Redistributable 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
 
-idk how to solve this otherwise.
+> x86 version or x64 version?
+
+Idk, install both, it doesn't hurt to have them.
 
 ## How to compile
 
